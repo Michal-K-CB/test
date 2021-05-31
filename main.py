@@ -10,6 +10,7 @@ def print_hi(name):
     print("Line 2")
     print("coś tam cośtam")
     # create dev
+    # nowy comit na devie
 
 
 # Press the green button in the gutter to run the script.
